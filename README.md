@@ -1,2 +1,5 @@
 # nurriskarahmadanitug195410030
-Ini kolom deskripsi
+Nama       : Nur Riska Rahmadani
+NIM        : 195410030
+Deskrispsi :
+Halo semuanya, perkenalkan nama saya Nur Riska Rahmadani, saya mempunyai beberapa nama panggilan seperti Nur, Riska, Ika, dan Kodi. Jika sedang bersama keluarga saya biasanya di panggil Ika, jika bersama teman-teman sebaya biasanya saya dipanggil Riska, Ika atau Kodi. Saya dipanggil Nur ketika sedang bersama dosen atau ketika bersama beberapa kenalan saya. Saat ini saya berusia 18 tahun, namun diakhir tahun umur saya akan beranjak ke 19 tahun. Saya lahir pada tanggal 13 Desember 2001 dan merupakan anak sulung dari lima bersaudara. Asal saya dari Kota Palu, Sulawesi Tengah. Saat ini saya sedang menempuh pendidikan di kampus STMIK AKAKOM YOGYAKARTA difakultas teknik informatika jurusan informatika, tahun ini merupakan tahun kedua saya dikampus. Alasan saya masuk ke kampus ini karena sejak kecil saya bercita-cita menjadi seorang programmer. Keminatan saya saat ini lebih condong ke hal-hal yang berbau jaringan/network. Hobi saya adalah membaca buku, mendengar musik, mencari apapun tentang k-pop dan menonton film/drama/varshow korea. Saya sangat menggemari grup K-pop semenjak saya berada dikelas 2 sekolah menengah pertama, saat ini saya pun masih sangat menggemari k-pop.
