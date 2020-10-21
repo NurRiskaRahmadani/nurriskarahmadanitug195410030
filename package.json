@@ -1,0 +1,24 @@
+{
+  "name": "riska1004",
+  "version": "1.0.0",
+  "description": "Ini Kolom Deskripsi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RiskaRahmadani1004/nurriskarahmadanitug195410030.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RiskaRahmadani1004/nurriskarahmadanitug195410030/issues"
+  },
+  "homepage": "https://github.com/RiskaRahmadani1004/nurriskarahmadanitug195410030#readme",
+  "dependencies": {
+    "node-static": "^0.7.11"
+  },
+  "devDependencies": {}
+}
